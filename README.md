@@ -20,7 +20,7 @@ To get started with the project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ShuaibAlam12/account-management-app.git
 
 2. **Navigate to the Project Directory**
 
